@@ -1,0 +1,5 @@
+[
+  { "id": "basics", "title": "Bases & Boucles", "file": "basics.py" },
+  { "id": "tri_insertion", "title": "Tri insertion", "file": "tri_insertion.py" },
+  { "id": "recursion", "title": "Récursivité (Factorielle)", "file": "recursion.py" }
+]
